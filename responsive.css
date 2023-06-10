@@ -1,0 +1,174 @@
+@media screen and (min-width:1440px){
+    header{
+        width: 100%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+  }
+  .logo{
+    width: 50px;
+    height: 50px;
+   
+  }
+
+  .meniu a{
+    
+    font-size: 16px;
+    
+}
+.section2{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    
+}
+.section2Text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width:640px;
+    height: 474px;
+    margin-top: 70px;
+}
+.simg{
+
+    width:640px;
+    height: 474px;
+
+}
+
+.section2texth1{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+
+}
+.section2textP{
+    text-align: center;
+    font-size: 17px;
+   line-height:  24px;
+   
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+   gap: 2%;
+   
+}
+input{
+    width: 320px;
+    height: 50px;   
+   
+}
+form button{
+    width: 304px;
+    height: 50px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 14px;
+   margin-bottom:11px ;
+    
+
+}
+
+main{display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 40px;
+    
+}
+.mainphoto{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 5%;
+}
+.mimg{
+
+    width:640px;
+    height: 474px;
+
+}
+.maineTextandBox{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:flex-start;
+    width:640px;
+    height: 474px;
+    margin-top: 10px;
+    padding-left: 5%;
+    
+   
+}
+.linkandArrow{
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    align-content: flex-start;
+    margin-left: 5%;
+}
+
+.maintext h1{text-align:center;
+
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 24px;
+   
+
+    
+}
+.maintext h4{
+    text-align: start;
+}
+.maintext p{
+    text-align: start;
+}
+.mainBox{
+    display:flex;
+    align-items: flex-start;
+    align-content: center;
+    margin-left: 30px;
+   
+}
+
+section{
+    width: 100%;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+}
+.sectionText{
+    width: 50%;
+}
+.sectionInput{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.forfooter{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15%;
+}
+}
+
+
+
